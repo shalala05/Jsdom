@@ -26,7 +26,6 @@ a:hover {
   font-weight: 700;
 }
 #todo .box input {
-  width: 175px;
   margin: 20px 0 20px;
   padding: 10px;
   border-radius: 18px;
@@ -35,7 +34,7 @@ a:hover {
   font-size: 18px;
   background-color: white;
   border-radius: 25px;
-  padding: 6px 15px;
+  padding: 3px 15px;
   cursor: pointer;
 }
 #todo .box .btn:hover {
@@ -49,5 +48,5 @@ a:hover {
   width: 150px;
   border-radius: 20px;
   margin-top: 10px;
-  padding: 5px 10px;
+  padding: 8px 10px;
 }/*# sourceMappingURL=style.css.map */
